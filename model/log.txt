@@ -1,0 +1,16 @@
+User ::ffff:127.0.0.1 requested resource from /create  July 10th 2021, 10:32:50 am 
+User ::ffff:127.0.0.1 requested resource from /create  July 10th 2021, 10:33:05 am 
+User ::ffff:127.0.0.1 requested resource from /products/3  July 10th 2021, 10:35:50 am 
+User ::ffff:127.0.0.1 requested resource from /create  July 10th 2021, 10:36:13 am 
+User ::ffff:127.0.0.1 requested resource from /products  July 10th 2021, 11:10:06 am 
+User ::ffff:127.0.0.1 requested resource from /products  July 10th 2021, 11:10:13 am 
+User ::ffff:127.0.0.1 requested resource from /create  July 10th 2021, 11:10:47 am 
+User ::ffff:127.0.0.1 requested resource from /create  July 10th 2021, 11:10:58 am 
+User ::ffff:127.0.0.1 requested resource from /create  July 10th 2021, 11:21:40 am 
+User ::ffff:127.0.0.1 requested resource from /  July 10th 2021, 12:43:35 pm 
+User ::ffff:127.0.0.1 requested resource from /products  July 10th 2021, 12:43:35 pm 
+User ::ffff:127.0.0.1 requested resource from /favicon.ico  July 10th 2021, 12:43:37 pm 
+User ::ffff:127.0.0.1 requested resource from /create  July 10th 2021, 12:44:32 pm 
+User ::ffff:127.0.0.1 requested resource from /create  July 10th 2021, 12:44:51 pm 
+User ::ffff:127.0.0.1 requested resource from /products  July 10th 2021, 4:41:45 pm 
+User ::ffff:127.0.0.1 requested resource from /create  July 10th 2021, 4:42:47 pm 
